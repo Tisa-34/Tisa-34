@@ -57,6 +57,9 @@ Here are some ideas to get you started:
   <a href="https://t.me/Sangatsu_umare_no_otoko">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" height="40" style="fill:#48cae4;" />
   </a>
+  <a href="https://www.wattpad.com/user/0tokodayo_">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wattpad.svg" width="40" height="40" style="fill:#48cae4;" />
+  </a>
 </p>
 
 
